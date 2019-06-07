@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="snow_yado_list_after" transform="translate(-754.000000, -479.000000)">
+            <rect id="Rectangle" opacity="0.1" fill-rule="nonzero" x="150" y="-1" width="1140" height="1057"></rect>
+            <g id="Group" transform="translate(280.000000, 252.000000)">
+                <g id="Group-15" transform="translate(474.000000, 227.000000)">
+                    <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="20" height="20"></rect>
+                    <path d="M14.5,14.75 C14.5,15.9925 13.401,17 12.0455,17 L7.9545,17 C6.599,17 5.5,15.9925 5.5,14.75 L5.5,13.25 C5.5,12.187 6.3065,11.302 7.3875,11.0665 C8.125,11.652 9.025,12 10,12 C10.975,12 11.875,11.652 12.6125,11.0665 C13.6935,11.302 14.5,12.187 14.5,13.25 L14.5,14.75 L14.5,14.75 Z M6.5,7 C6.5,4.791 8.067,3 10,3 C11.933,3 13.5,4.791 13.5,7 C13.5,9.209 11.933,11 10,11 C8.067,11 6.5,9.209 6.5,7 L6.5,7 Z M13.4755,10.1765 C14.115,9.3125 14.5,8.206 14.5,7 C14.5,4.239 12.4855,2 10,2 C7.5145,2 5.5,4.239 5.5,7 C5.5,8.206 5.885,9.3125 6.5245,10.1765 C5.3495,10.5825 4.5,11.6865 4.5,13 L4.5,15 C4.5,16.6565 5.8435,18 7.5,18 L12.5,18 C14.1565,18 15.5,16.6565 15.5,15 L15.5,13 C15.5,11.6865 14.6505,10.5825 13.4755,10.1765 L13.4755,10.1765 Z" id="Fill-177" fill="#1A87D8"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
